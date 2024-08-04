@@ -1,0 +1,12 @@
+Hello! We're the administrator of brAIns, Artificial Intelligence club of UNIST.
+
+Thank you so much for using this TarotAI!
+
+Before we start, all personal data used in this prompt will be deleted after 4PM due to privacy issues.
+
+As TarotAI is a programmed tarot reader, I don't want you to interpret the results seriously, it's just for fun!
+
+If you have any questions, or problems running the code, please ask the administrator.
+
+Thank you again, and have a wonderful day!
+
